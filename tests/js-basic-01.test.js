@@ -46,7 +46,7 @@ TODO: Use the let keyword to declare a variable called myName and make sure you
 TODO: DO NOT assign it a value.
 */
 // * Add your code BELOW here
-
+let myName;
 // * Don't mess with the test code below here!
 
 test('myName', () => {
@@ -69,7 +69,7 @@ TODO: number literal value of integer 22.
 */
 
 // * Add your code BELOW here
-
+let age = 22;
 // * Don't mess with the test code below here!
 
 test('age', () => {
@@ -89,7 +89,7 @@ TODO: This skill requires 1 line of code.
 TODO: Use the const keyword to create a constant called daysInWeek and assign it
 TODO: the number literal value 7.
 */
-
+const daysInWeek = 7;
 // * Add your code BELOW here
 
 // * Don't mess with the test code below here!
@@ -130,7 +130,8 @@ TODO: of one variable to a different variable.
 */
 
 // * Add your code BELOW here
-
+let myWorkDays;
+myWorkDays = daysInWeek;
 // * Don't mess with the test code below here!
 
 test('myWorkDays', () => {
@@ -161,7 +162,9 @@ TODO: (using the * operator for multiplication).
 */
 
 // * Add your code BELOW here
-
+let oops;
+let sillyMath;
+sillyMath = oops * 2;
 // * Don't mess with the test code below here!
 
 test('sillyMath', () => {
