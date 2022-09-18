@@ -89,9 +89,9 @@ TODO: This skill requires 1 line of code.
 TODO: Use the const keyword to create a constant called daysInWeek and assign it
 TODO: the number literal value 7.
 */
-const daysInWeek = 7;
-// * Add your code BELOW here
 
+// * Add your code BELOW here
+const daysInWeek = 7;
 // * Don't mess with the test code below here!
 
 test('daysInWeek', () => {

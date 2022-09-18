@@ -39,7 +39,7 @@ TODO: the string literal 'JavaScript is Awesome!'.
 */
 
 // * Add your code BELOW here
-let myClass = 'JavaScript is Awesome!'
+let myClass = 'JavaScript is Awesome!';
 // * Don't mess with the test code below here!
 
 test('myClass', () => {
@@ -132,7 +132,7 @@ TODO: and two is not a space but an escaped horizontal tab character.
 */
 
 // * Add your code BELOW here
-let counting = 'one\ttwo'
+let counting = 'one\ttwo';
 // * Don't mess with the test code below here!
 
 test('counting', () => {
@@ -252,7 +252,7 @@ TODO: In the below area, you will practice making template literals
 let year = 2001;
 let firstName = 'John';
 let lastName = 'Smith';
-let message = `Hi, my name is ${firstName} ${lastName} and I was born in ${year}`
+let message = `Hi, my name is ${firstName} ${lastName} and I was born in ${year}`;
 // * Don't mess with the test code below here!
 
 test('creating a message', () => {
@@ -273,7 +273,7 @@ test('creating a message', () => {
 // * Add your code BELOW here
 let tax = 8.25;
 let price = 100;
-let total = `Your total including tax is $${price + tax}`
+let total = `Your total including tax is $${price + tax}`;
 // * Don't mess with the test code below here!
 
 test('creating a total', () => {
@@ -287,9 +287,9 @@ test('creating a total', () => {
 // TODO: such that you get the string - '<h1>JavaScript</h1><h2>HTML</h2><p>This is a paragraph</p>'
 
 // * Add your code BELOW here
-let heading1 = 'JavaScript'
-let heading2 = 'HTML'
-let html = `<h1>${heading1}</h1><h2>${heading2}</h2><p>This is a paragraph</p>`
+let heading1 = 'JavaScript';
+let heading2 = 'HTML';
+let html = `<h1>${heading1}</h1><h2>${heading2}</h2><p>This is a paragraph</p>`;
 // * Don't mess with the test code below here!
 
 test('html', () => {
