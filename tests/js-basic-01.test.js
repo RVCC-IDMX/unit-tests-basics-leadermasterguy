@@ -192,7 +192,7 @@ TODO: In the second line, assign sillyString to 'Hello, ' and concatenate oops t
 
 // * Add your code BELOW here
 let sillyString;
-sillyString = "Hello, " + oops;
+sillyString = 'Hello, ' + oops;
 // * Don't mess with the test code below here!
 
 test('sillyString', () => {
@@ -222,7 +222,7 @@ test('year', () => {
 // a variable called firstName and set it to 'John'
 
 // * Add your code BELOW here
-let firstName = "John";
+let firstName = 'John';
 // * Don't mess with the test code below here!'
 test('firstName', () => {
   expect(firstName).toBe('John');
